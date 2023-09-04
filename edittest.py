@@ -26,3 +26,5 @@ print (char_element)
 
 chars = "hello world"
 print (chars)
+
+print (number_school, str_name, bool_view, flt_pi, char_element, chars)
