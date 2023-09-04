@@ -28,3 +28,5 @@ chars = "hello world"
 print (chars)
 
 print (number_school, str_name, bool_view, flt_pi, char_element, chars)
+
+print ("number : ", number_school, "name: ", str_name, "bool : ", bool_view, "float : ", flt_pi, "character : ", char_element, "characters : ", chars)
